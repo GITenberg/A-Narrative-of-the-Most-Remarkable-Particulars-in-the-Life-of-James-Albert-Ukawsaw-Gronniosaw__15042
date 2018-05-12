@@ -1,0 +1,31 @@
+_repo: A-Narrative-of-the-Most-Remarkable-Particulars-in-the-Life-of-James-Albert-Ukawsaw-Gronniosaw__15042
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gronniosaw, James Albert Ukawsaw
+    aliases:
+    - Gronniosaw, J. A. U. (James Albert Ukawsaw)
+    - Ukawsaw Gronniosaw, James Albert
+    gutenberg_agent_id: '5813'
+    url: http://www.gutenberg.org/2009/agents/5813
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian biography'
+- !lcc 'BV'
+- !lcsh 'Autobiographies'
+- !lcsh 'Gronniosaw, James Albert Ukawsaw'
+title: A Narrative of the Most Remarkable Particulars in the Life of James Albert
+  Ukawsaw Gronniosaw, an African Prince, as Related by Himself
+url: http://www.gutenberg.org/ebooks/15042
