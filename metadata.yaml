@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5813'
     url: http://www.gutenberg.org/2009/agents/5813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15042#A-Narrative-of-the-Most-Remarkable-Particulars-in-the-Life-of-James-Albert-Ukawsaw-Gronniosaw_
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2005-02-14'
 gutenberg_type: Text
